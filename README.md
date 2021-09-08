@@ -4,4 +4,5 @@
  ## 机器流程图：
 ![机器流程](https://github.com/Aaron19991211/internet-plus/blob/main/1.JPG)
  ## 操作软件界面：
+![3](https://github.com/Aaron19991211/internet-plus/blob/main/3.jpg)
 
